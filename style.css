@@ -5,12 +5,13 @@
 }
 
 a {
-  text-decoration: none;
-}
+text-decoration: none;
+  }
 
 a:hover {
-  color: white
+  text-decoration: underline;
 }
+
 a:visited {
   color: black;
 }
